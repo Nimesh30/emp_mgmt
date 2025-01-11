@@ -13,14 +13,18 @@ Secure login for the admin user to access the dashboard.
 
 Create New User:
 
-Add Admin Employees (HR) to the system.
+Add Admin Employees (HR) to the system. 
+
 Manage and onboard Regular Employees with required details.
-Update Employee Information:
+
+Update Employee Information :
 
 Modify information for both Admin Employees (HR) and Regular Employees as needed.
+
 Delete Employee:
 
 Remove employees from the system (both HR and Regular Employees).
+
 Manage Leaves and Attendance:
 
 Review leave applications.
@@ -35,14 +39,18 @@ Secure login for HR to access their dashboard.
 
 Create New User:
 Onboard Regular Employees with personal and professional details.
-Update Employee Information:
+
+Update Employee Information :
 
 Update their own information.
+
 Modify details of Regular Employees.
+
 Assign Tasks:
 
 Allocate tasks to employees for a specific timeline.
 Monitor and check status updates for assigned tasks.
+
 Manage Leaves and Attendance:
 
 Review and process leave requests.
